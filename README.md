@@ -17,13 +17,13 @@ Este é um projeto criado durante a formação JavaScript Developer da Dio. Esse
 
 ### Screenshot
 
-![](./src/screenshot.jpg)
+![](./assets/src/screenshot.jpg)
 
 Todo o conteúdo foi introduzido utilizando JavaScript com as requisições dos dados da PokeAPI. O CSS já contém todo o estilo para todos esses elementos e o JavaScript adiciona esses elementos ao HTML contendo as classes citadas no CSS. Dessa maneira, fica muito simples de carregar vários Pokemons sem a necessidade de ter que digitar um por um no HTML.
 
 ### Links
 
-- Live Site: [](https://your-live-site-url.com)
+- Live Site: [https://pricard0.github.io/Pokedex/](https://pricard0.github.io/Pokedex/)
 - Repositório do Professor: [https://github.com/digitalinnovationone/js-developer-pokedex](https://github.com/digitalinnovationone/js-developer-pokedex)
 - PokeAPI: [https://pokeapi.co](https://pokeapi.co)
 
