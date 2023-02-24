@@ -1,6 +1,6 @@
 # Pokedex - JavaScript Developer
 
-## Table of contents
+## Tabela de conteúdo
 
 - [Visão geral](#visão-geral)
   - [Screenshot](#screenshot)
